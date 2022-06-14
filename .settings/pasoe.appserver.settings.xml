@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<module-content version="11.7">
+<module id="af079561-dece-487f-a8c7-ed68a629d540" name="buggie">
+<resource path="AppServer" publish="true"/>
+</module>
+</module-content>
